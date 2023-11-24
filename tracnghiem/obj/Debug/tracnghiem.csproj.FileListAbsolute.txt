@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\dophuckhang\Tuan10\tracnghiem\bin\Debug\tracnghiem.exe.config
+E:\LuuDuLieuSinhVien\dophuckhang\Tuan10\tracnghiem\bin\Debug\tracnghiem.exe
+E:\LuuDuLieuSinhVien\dophuckhang\Tuan10\tracnghiem\bin\Debug\tracnghiem.pdb
+E:\LuuDuLieuSinhVien\dophuckhang\Tuan10\tracnghiem\obj\Debug\tracnghiem.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\dophuckhang\Tuan10\tracnghiem\obj\Debug\tracnghiem.Form1.resources
+E:\LuuDuLieuSinhVien\dophuckhang\Tuan10\tracnghiem\obj\Debug\tracnghiem.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\dophuckhang\Tuan10\tracnghiem\obj\Debug\tracnghiem.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\dophuckhang\Tuan10\tracnghiem\obj\Debug\tracnghiem.exe
+E:\LuuDuLieuSinhVien\dophuckhang\Tuan10\tracnghiem\obj\Debug\tracnghiem.pdb
